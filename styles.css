@@ -124,3 +124,10 @@ footer{
     color: #fff;
     font-size: 12px;
 }
+
+.social_media i{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
